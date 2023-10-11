@@ -1,16 +1,16 @@
-#!/bin/bash
-#include<stdio.h>
+#include <stdio.h>
+
+
 /**
- *  * main - Entry point
- *   *
- *    * Return: Always 0 (Success)
- *     */
+ * main - prints "Programming is like building a multilingual
+ * puzzle, followed by a newline."
+ * Return 0.
+ */
+
 int main(void)
 {
 
-char array[] = "\"Programming is like building a multilingual puzzle";
+	puts("\"Programming is like building a multilingual puzzle";
 
-puts(array);
-
-return (0);
+	return(0);
 }

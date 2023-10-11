@@ -4,7 +4,7 @@
  *
  * puzzle, followed by a newline.
  * 
- * Return: Always (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -12,5 +12,5 @@ int main(void)
 
 	puts(array);
 
-	return ();
+	return (0);
 }

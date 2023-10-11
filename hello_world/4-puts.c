@@ -3,7 +3,6 @@
  * main - Entry point
  *
  * puzzle, followed by a newline.
- * 
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -12,5 +11,6 @@ int main(void)
 
 	puts(array);
 
-	return(0);
+	return (0);
+
 }

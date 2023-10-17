@@ -18,7 +18,7 @@ void print_alphabet_x10(void)
 		for (chs = 'a'; chs <= 'z'; chs++)
 		{
 			_putchar(chs);
-																	}	
+																	}
 		_putchar('\n');
 	}
 }

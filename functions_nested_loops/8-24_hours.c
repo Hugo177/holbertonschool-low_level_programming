@@ -28,7 +28,7 @@ int brazil;
 
 			_putchar('\n');
 	}
-		
+
 	}
 
 }

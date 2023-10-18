@@ -18,7 +18,7 @@ int brazil;
 
 		for (min = 0; min < 60; min++)
 
-{
+	{
 			_putchar(brazil / 10 + '0');
 			_putchar(brazil % 10 + '0');
 			_putchar(':');
@@ -27,6 +27,8 @@ int brazil;
 			_putchar(min % 10 + '0');
 
 			_putchar('\n');
+	}
+		
 	}
 
 }

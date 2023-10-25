@@ -20,3 +20,8 @@ int _isdigit(int c)
  * Return: integer to be convert
  */
 int _atoi(char *s)
+{
+	int sign = 1;
+	unsigned int num = 0;
+
+	do {

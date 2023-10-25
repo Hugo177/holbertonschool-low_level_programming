@@ -14,3 +14,9 @@ int _isdigit(int c)
 
 	return (0);
 }
+/**
+ * _atoi - convert a string to an integer.
+ * @s: string
+ * Return: integer to be convert
+ */
+int _atoi(char *s)
